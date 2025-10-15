@@ -34,8 +34,13 @@ Sou uma profissional apaixonada por design e tecnologia, focada em criar experi�
 1. Clone o repositório:  
 ```
 git clone https://github.com/renataalvescunh/renataalvescunh.github.io.git
+<<<<<<< HEAD
 
 
+=======
+```
+>>>>>>> f8aa6d60ec130a683fbc1a73063f65475b878f83
 E faça as suas modificações pessoais.
 
+### 💟 Obrigada pela visita!
 
