@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    zoom: 0.96;
+    zoom: 0.99;
     scroll-behavior: smooth;
 }
 
@@ -386,8 +386,8 @@ section {
 
 .timeline-subtitle {
     color: rgb(255, 255, 255);
-    font-size: 0.95rem;
-    line-height: 1.5;
+    font-size: 1rem;
+    line-height: 1.7;
 }
 
 .lista-cursos {
@@ -558,6 +558,7 @@ a:hover {
     font-size: 12px;
     font-weight: 600;
     margin-bottom: 20px;
+    text-decoration: uppercase;
 }
 
 .project-card h3 {
@@ -660,6 +661,24 @@ footer {
     width: 100%;
     bottom: 50px;
     left: 0px;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
 }
 
 /* Responsive */
