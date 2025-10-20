@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    zoom: 0.97;
     scroll-behavior: smooth;
 }
 
@@ -1044,7 +1043,6 @@ max-width: 59vh;        }
     body {
         max-width: 1600px;
         margin: 0 auto;
-        zoom: 1.1;
     }
     section,
     #sobre,
