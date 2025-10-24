@@ -855,7 +855,6 @@ th {
     html,
         body {
             zoom: 0.9;
-            margin-left: 2%;
     }
     nav {
 padding: 34px 40px;
@@ -929,12 +928,15 @@ padding: 34px 40px;
         padding: 10px 0;
     }
 
+
+
     section,
     .resume-content
     #sobre,
-    #contato {
-        padding-left: 50px;
-        margin-right: 5%;
+    #contato,
+    #projetos, #resume {
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .timeline-item {
@@ -1025,6 +1027,11 @@ max-width: 59vh;        }
                 padding: 34px 40px;
                 flex-direction: column;
                 gap: 15px;
+            }
+            .hamburger {
+                position: absolute;
+                right: 50px;
+                top: 18px;
             }
     
             .hero-content {
