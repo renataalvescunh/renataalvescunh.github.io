@@ -28,8 +28,6 @@ Aqui você encontra o código-fonte do meu site, onde apresento meus projetos e 
 - [LinkedIn](https://www.linkedin.com/in/renataalvescunh)  
 - [Site do portfólio](https://renataalvescunh.github.io)
 
----
-
 ## 📄 Como rodar este projeto localmente
 
 1. Clone o repositório:  
@@ -39,5 +37,10 @@ git clone https://github.com/renataalvescunh/renataalvescunh.github.io.git
 
 E faça as suas modificações pessoais.
 
+---
+
+<div align="center"> 
+
 ### 💟 Obrigada pela visita!
 
+</div>
